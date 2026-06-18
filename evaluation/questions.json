@@ -1,0 +1,86 @@
+{
+  "simple": [
+    {
+      "id": "S01",
+      "question": "Qu'est-ce que le Machine Learning ?"
+    },
+    {
+      "id": "S02",
+      "question": "Quels sont les trois types d'apprentissage en ML ?"
+    },
+    {
+      "id": "S03",
+      "question": "Qu'est-ce qu'un CNN ?"
+    },
+    {
+      "id": "S04",
+      "question": "Quelle est la fonction d'activation la plus utilisée dans les couches cachées ?"
+    },
+    {
+      "id": "S05",
+      "question": "Qu'est-ce que Word2Vec ?"
+    },
+    {
+      "id": "S06",
+      "question": "Qu'est-ce que le RAG ?"
+    },
+    {
+      "id": "S07",
+      "question": "Quels sont les composants d'une architecture RAG classique ?"
+    },
+    {
+      "id": "S08",
+      "question": "Qu'est-ce que LangGraph ?"
+    },
+    {
+      "id": "S09",
+      "question": "Qu'est-ce que l'overfitting ?"
+    },
+    {
+      "id": "S10",
+      "question": "Qu'est-ce que le RGPD dans le contexte de l'IA ?"
+    }
+  ],
+  "complex": [
+    {
+      "id": "C01",
+      "question": "Compare l'apprentissage supervisé et non supervisé avec des exemples d'algorithmes pour chaque."
+    },
+    {
+      "id": "C02",
+      "question": "Explique comment les Transformers utilisent l'attention et pourquoi ils ont remplacé les LSTM pour le NLP."
+    },
+    {
+      "id": "C03",
+      "question": "Quelles sont les limites du RAG naïf et comment l'Agentic RAG y répond-il ?"
+    },
+    {
+      "id": "C04",
+      "question": "Décris le pattern Adaptive RAG avec LangGraph : quels nœuds et quelles boucles de décision ?"
+    },
+    {
+      "id": "C05",
+      "question": "Quelles stratégies de chunking existent et quels sont leurs compromis ?"
+    },
+    {
+      "id": "C06",
+      "question": "Comment mitiger les biais algorithmiques lors du déploiement d'un modèle ML ?"
+    },
+    {
+      "id": "C07",
+      "question": "Explique la différence entre create_agent de LangChain et une implémentation manuelle avec LangGraph."
+    },
+    {
+      "id": "C08",
+      "question": "Quels risques spécifiques posent les LLM génératifs et quelles mitigations existent ?"
+    },
+    {
+      "id": "C09",
+      "question": "Décris le pipeline complet de fine-tuning d'un LLM : SFT, RLHF et LoRA."
+    },
+    {
+      "id": "C10",
+      "question": "Comment l'AI Act de l'UE classe-t-il les systèmes IA par niveau de risque ?"
+    }
+  ]
+}
